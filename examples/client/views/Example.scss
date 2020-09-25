@@ -1,0 +1,17 @@
+#root {
+    height: 100%;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+}
+
+#container {
+    flex: 1 0 auto;
+    background-color: #f8f8f8;
+}
+
+#footer {
+    flex-shrink: 0;
+}
